@@ -1,4 +1,4 @@
-# ShoppingList
+# ShoppingList.py
 A program to help keep track of item crafting and resources required in video games. 
 
 
@@ -10,7 +10,7 @@ A program to help keep track of item crafting and resources required in video ga
   people looking to practice and learn GitHub, or programming in general should feel
   especially welcome.
   
-* This project will continue to recieve updates and new features for as long as there
+* This project will continue to receive updates and new features for as long as there
   is an interest in adding them. When considering new features to add, anything that
   incorporates a new technology is encouraged, since this is primarily a learning project.
   (It will probably get bloated. A "feature manager" will included in later versions)
