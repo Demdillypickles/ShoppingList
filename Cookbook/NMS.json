@@ -1,0 +1,14 @@
+{
+  "Antimatter": {
+    "CondensedCarbon": 20,
+    "ChromaticMetal": 25
+  },
+  "AntimatterHousing": {
+    "Oxygen": 30,
+    "FerriteDust": 50
+  },
+  "WarpCell": {
+    "AntimatterHousing": 1,
+    "Antimatter": 1
+  }
+}
