@@ -4,6 +4,10 @@
 
 ### Version 1.0
 
+- [ ] Create Tests for existing functions
+
+- [ ] Create requirements.txt
+
 - [x] Create graph database to represent crafting tree
   
   - [ ] Facilitate multiple graphs for different games
@@ -22,7 +26,7 @@
     
 - [ ]  View Recipes/Materials entries (_User should be able to view stored entries_)
   
-  - [ ] Retreive Recipe for item by item name
+  - [ ] Retrieve Recipe for item by item name
     
     - [x] Create Python Function
   
